@@ -1,4 +1,4 @@
-<p style="font-size:18px;">Instructions</p>
+<p style="font-size:28px; font "><b>Instructions</b></p>
 Step 1: Clone the project
 Step 2: In the terminal, type npm install. This command installs the packages listed in the package.json file. 
 Step 3: After installing the packages, type node start. This command runs the server, allowing you to access the application on port 3040 via localhost.
