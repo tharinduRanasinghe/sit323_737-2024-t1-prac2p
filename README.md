@@ -1,7 +1,7 @@
 <h1 style="font-size:28px; font "><b>Instructions</b></h1>
 <p><b>Step 1:</b> Clone the project</p>
-<p><b>Step 2:</b> In the terminal, type npm install. This command installs the packages listed in the package.json file.</p>
-<p><b>Step 3:</b> After installing the packages, type node start. This command runs the server, allowing you to access the application on port 3040 via localhost.</p>
+<p><b>Step 2:</b> In the terminal, type <i>npm install</i>. This command installs the packages listed in the package.json file.</p>
+<p><b>Step 3:</b> After installing the packages, type <i>node start</i>. This command runs the server, allowing you to access the application on port 3040 via localhost.</p>
 <h2>Important files and their purposes are as follows</h2>
 <p><b>Index.html- </b>It consists of a form with two input fields labeled "Number 1" and "Number 2," where users can input numerical values.
              Upon submission, the form sends an asynchronous request to an Express.js server endpoint /addTwoNumber, passing the entered numbers as query parameters. 
